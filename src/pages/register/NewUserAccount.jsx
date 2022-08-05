@@ -117,7 +117,7 @@ const NewUserAccount = ({ inputs, title }) => {
               ))}
               <button onClick={handleClick}>Send</button>
 
-              <button>Send</button>
+              {/* <button>Send</button> */}
             </form>
           </div>
         </div>
